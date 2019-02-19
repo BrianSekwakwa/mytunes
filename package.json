@@ -9,5 +9,7 @@
   "homepage": "https://briansekwakwa.github.io/mytunes",
   "author": "Bria Sekwakwa",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
