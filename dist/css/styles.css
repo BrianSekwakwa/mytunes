@@ -194,6 +194,7 @@ nav a#openup {
   display: none;
 }
 
+/* Media queries that support small screens like phones */
 @media screen and (max-width: 580px) {
   .hide-on-small {
     display: none;
@@ -269,6 +270,7 @@ nav a#openup {
   zoom: 1;
 }
 
+/* Media queries that support medium sized screens like tablets and landscape mode for mobile phones  */
 @media screen and (max-width: 780px) {
   #showcase .container {
     margin-top: 15vh;
@@ -290,6 +292,7 @@ nav a#openup {
   }
 }
 
+/* Media queries for devices with small heights */
 @media screen and (max-height: 580px) {
   #showcase .container {
     margin-top: 15vh;
